@@ -9,7 +9,7 @@
 
 <style scoped>
   .disclaimer, h3 {
-    color: rgb(0, 255, 0);
+    color: #67ff67;
     font-family: monospace;
   }
 </style>

@@ -6,12 +6,12 @@
           <label for="member_email" >Email address</label>
           <input class="revue-form-field input is-medium" placeholder="Your email address..." type="email" name="member[email]" id="member_email">
         </div>
-      
+
         <div class="revue-form-group field">
           <label for="member_first_name"  >First name</label>
           <input class="revue-form-field input is-medium" placeholder="(Optional)" type="text" name="member[first_name]" id="member_first_name">
         </div>
-      
+
         <div class="revue-form-group field">
           <label for="member_last_name" >Last name</label>
           <input class="revue-form-field input is-medium" placeholder="(Optional)" type="text" name="member[last_name]" id="member_last_name">
@@ -28,7 +28,7 @@
   label,
   #subtitle,
   #title {
-    color: rgb(0, 255, 0);
+    color: #67ff67;
     font-family: monospace;
   }
 
@@ -37,6 +37,6 @@
   }
 
   .button {
-    background-color: rgb(0, 255, 0);
+    background-color: #67ff67;
   }
 </style>

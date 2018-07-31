@@ -2,7 +2,7 @@
   <footer class="app-footer container is-fluid">
     <div class="content has-text-centered">
       <p>
-        <strong>n00b news</strong> by <a href="http://jason.land">Jason Land</a>. Previous issues are available at <a href="https://www.getrevue.co/profile/n00b_news/">Get Revue</a>.
+        <strong>n00b news</strong> by <a href="https://jason.land">Jason Land</a>
       </p>
       <br>
       <br>
@@ -16,13 +16,13 @@
 
   p,
   strong {
-    color: rgb(0, 255, 0);
+    color: #67ff67;
     font-family: monospace;
   }
 
   a {
     text-decoration: underline;
-    color: rgb(0, 255, 0);
+    color: #67ff67;
   }
 
   .app-footer {

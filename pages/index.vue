@@ -9,8 +9,9 @@
           </h1>
           <br>
           <p class="subtitle" id="subtitle">
-            About 7-8 links a week regarding web development, web design, and programmer culture targeted at those beginning their education.
+            A dozen links every two weeks on web development, web design, accessbility, mobile apps, backend, databases, and programmer culture targeted at those beginning their education.
           </p>
+          <p><small>Previous issues are available <a href="https://www.getrevue.co/profile/n00b_news/">here.</a></small></p>
           <signup-form />
         </div>
         <app-disclaimer />
@@ -40,7 +41,7 @@ export default {
 
   #subtitle {
     text-decoration: underline;
-    color: rgb(0, 255, 0);
+    color: #67ff67;
   }
 
 </style>
